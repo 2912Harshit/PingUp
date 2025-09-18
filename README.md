@@ -34,7 +34,7 @@ Server expects:
 
 Client expects:
 - `VITE_CLERK_PUBLISHABLE_KEY`
-- `VITE_BASEURL` (e.g. http://localhost:4000)
+- `VITE_BASEURL` (e.g. http://pingup-one.vercel.app)
 
 ## Running locally
 - Server: `cd server && npm i && npm start`
